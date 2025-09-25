@@ -2,3 +2,5 @@
 Repository for Engineering Business and Society
 
 Committing new changes
+
+Desktop changes
